@@ -1,4 +1,4 @@
-package ppl.springframework.joke.jokeapp;
+package ppl.jokeapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

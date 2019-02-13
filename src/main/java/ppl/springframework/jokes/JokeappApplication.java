@@ -1,4 +1,4 @@
-package ppl.springframework.joke.jokeapp;
+package ppl.springframework.jokes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
